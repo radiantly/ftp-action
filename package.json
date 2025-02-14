@@ -19,7 +19,7 @@
   "homepage": "https://github.com/radiantly/profanity-filter-action#readme",
   "dependencies": {
     "@actions/core": "^1.9.1",
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^6.0.0",
     "bad-words": "^3.0.3"
   },
   "devDependencies": {
